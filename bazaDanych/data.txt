@@ -1,0 +1,2 @@
+ID|nazwa firmy|kod pocztowy|miasto|ulica|osoba do kontaktu|mail|telefon
+ID|nazwa firmy|kod pocztowy|miasto|ulica|osoba do kontaktu|mail|telefon
